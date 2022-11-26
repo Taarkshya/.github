@@ -10,8 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-we invite you to the community 
+<div>
+
+## we invite you to the community 
+<p>
 <a href="https://discord.gg/K5AsyuFg8" target="_blank">
 <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
 </a>
-
+<p/>
+<div/>
